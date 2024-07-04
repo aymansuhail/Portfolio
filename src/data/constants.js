@@ -198,4 +198,15 @@ export const projects = [
     github: "https://github.com/aymansuhail/TodoApp",
     webapp: "https://todo-app-lime-iota.vercel.app/",
   },
+   {
+    id: 1,
+    title: "Paytm Like App",
+    description: "Developed a full-stack application with authentication and authorization using Node.js and Express.js for the backend,React.js for the frontend",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-a0bda.appspot.com/o/paytm.png?alt=media&token=f3ca0b6e-7ae9-4e24-b535-d06b984ea0d3",
+    tags: ["React Js", "JavaScript", "Tailwind CSS", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/aymansuhail/paytm",
+    webapp: "https://github.com/aymansuhail/paytm",
+  },
 ];
